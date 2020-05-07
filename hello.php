@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HELLO</h1>
-    
+    <h1>HELLO line bot</h1>
+    <?php echo date("Y-m-d"); ?>
 </body>
 </html>
